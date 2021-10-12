@@ -20,7 +20,7 @@ This code contains the interface of the application. To create this just write t
 <body>
  <nav class="navabar navbar-default">
  <div class="container-fluid">
- <a class="navbar-brand" href="https://sourcecodester.com">Sourcecodester</a>
+ <a class="navbar-brand" href="https://web.facebook.com/TechDudes101">TechDudes</a>
  </div>
  </nav>
  <div class="col-md-3"></div>
@@ -90,5 +90,5 @@ FOR YOUR OWN SAFETY, PLEASE:
 2. NEVER, EVER run compiled files (.exe's, .ocx's, .dll's etc.)--only run source code.
 
 
-![GitHub Logo](./image.png)
+![img](./image.png)
 
