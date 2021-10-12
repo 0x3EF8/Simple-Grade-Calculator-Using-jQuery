@@ -2,15 +2,15 @@
 
 In this tutorial we will create a Simple Grade Calculator using jQuery. JavaScript is a scripting or programming language that allows you to implement complex things on web pages. It is widely used in designing a stunning website. It is an interpreted programming language that has the capabilities of Object-Oriented. This code can be used as your calculator for any mathematical problem.
 
-So Let's do the coding...
+# So Let's do the coding...
 Getting started:
 This is the link for the bootstrap that has been used for the layout of the calculator https://getbootstrap.com/.
 
 And this is the link for the jquery that i used in this tutorial https://jquery.com/.
 
-The Main Interface
+# The Main Interface
 This code contains the interface of the application. To create this just write these block of code inside the text editor and save this as index.html.
-
+```HTML
 <!DOCTYPE html>
 <html lang="en">
  <head>
@@ -41,10 +41,10 @@ This code contains the interface of the application. To create this just write t
 <script src="js/script.js"></script>
 </body>
 </html>
-
-Creating the Script
+```
+# Creating the Script
 This code contains the script of the application. This will calculate the average of the given grade. To do this just copy and write these block of codes as shown below inside the text editor and save it as script.js inside the js folder.
-
+```Script
 $(document).ready(function(){
  $('#add').on('click', function(){
  var newField = $('<br /><input type="number" placeholder="Enter a number" class="form-control grade" min="0" max="100"/>');
@@ -74,7 +74,7 @@ $(document).ready(function(){
  }
  });
 });
-
+```
 There you have it we successfully created a Simple Grade Calculator using jQuery. I hope that this simple tutorial helps you to what you are looking for. For more updates and tutorials just kindly visit this site.
 
 Enjoy Coding!
