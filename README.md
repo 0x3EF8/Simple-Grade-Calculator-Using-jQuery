@@ -2,6 +2,9 @@
 
 In this tutorial we will create a Simple Grade Calculator using jQuery. JavaScript is a scripting or programming language that allows you to implement complex things on web pages. It is widely used in designing a stunning website. It is an interpreted programming language that has the capabilities of Object-Oriented. This code can be used as your calculator for any mathematical problem.
 
+
+![img](./image.png)
+
 # So Let's do the coding...
 Getting started:
 This is the link for the bootstrap that has been used for the layout of the calculator https://getbootstrap.com/.
@@ -90,5 +93,4 @@ FOR YOUR OWN SAFETY, PLEASE:
 2. NEVER, EVER run compiled files (.exe's, .ocx's, .dll's etc.)--only run source code.
 
 
-![img](./image.png)
 
