@@ -78,19 +78,17 @@ $(document).ready(function(){
  });
 });
 ```
-There you have it we successfully created a Simple Grade Calculator using jQuery. I hope that this simple tutorial helps you to what you are looking for. For more updates and tutorials just kindly visit this site.
 
-Enjoy Coding!
-
-
-Note: Due to the size or complexity of this submission, the author has submitted it as a .zip file to shorten your download time. After downloading it, you will need a program like Winzip to decompress it.
-
-Virus note: All files are scanned once-a-day by SourceCodester.com for viruses, but new viruses come out every day, so no prevention program can catch 100% of them.
+For more updates and tutorials just kindly visit my Github Account @IamLev1 
 
 FOR YOUR OWN SAFETY, PLEASE:
 
 1. Re-scan downloaded files using your personal virus checker before using it.
 2. NEVER, EVER run compiled files (.exe's, .ocx's, .dll's etc.)--only run source code.
+
+# Enjoy Coding!
+
+
 
 
 
