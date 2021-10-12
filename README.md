@@ -90,5 +90,5 @@ FOR YOUR OWN SAFETY, PLEASE:
 2. NEVER, EVER run compiled files (.exe's, .ocx's, .dll's etc.)--only run source code.
 
 
-![GitHub Logo](/image.png)
+![GitHub Logo](./image.png)
 
